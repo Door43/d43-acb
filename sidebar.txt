@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[acb:home|Door43 (acb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-acb|d43-acb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-acb/archive/master.zip|d43-acb.zip]]
+
+**Recent Changes**
+{{changes>ns = acb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/acb|Ethnologue data]]
+
